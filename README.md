@@ -25,7 +25,7 @@
 ## What I work on
 
 - 🔐 **Cybersecurity**: understanding how systems break, from web vulnerabilities to low-level code, and how to defend them
-- 🌐 **Web development**: full-stack applications in PHP and C#, from the database and API to the interface
+- 🌐 **Web development**: full-stack applications in PHP, from the database and API to the interface
 - 🧮 **Algorithms and data structures** in C++: graph problems, optimisation, register allocation
 - 🛠️ **Software development**: mobile apps, systems programming in C and machine learning in Python, built in teams and under hackathon pressure
 
