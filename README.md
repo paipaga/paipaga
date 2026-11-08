@@ -19,7 +19,7 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,dart,flutter,html,css,docker,git,linux,bash&perline=7" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,flutter,html,css,docker,git,linux,bash&perline=6" alt="Tech stack">
 </p>
 
 ## What I work on
