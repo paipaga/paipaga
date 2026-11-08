@@ -41,6 +41,7 @@
 | C++ | **[DAProject](https://github.com/paipaga/DAProject)**<br>Scientific conference organisation tool, for the Algorithm Design course |
 | PHP | **[PhoenixForce-Gym-Website](https://github.com/paipaga/PhoenixForce-Gym-Website)**<br>Functional gym website, for the Web Languages and Technologies course |
 | Java | **[Snailin-it](https://github.com/paipaga/Snailin-it)**<br>Java game, for the Software Design and Testing course |
+| C | **[RCOMProj1](https://github.com/paipaga/RCOM-Proj1)** <br> Transfering a file between a transmitter and a receiver over a serial link. It is split into two independent layers. Made in Computer Networks course |
 | Haskell | **[Logic Calculator](https://github.com/paipaga/Logic-Calculator)** <br> Logic caculator made for Functional and Logic Programming course |
 
 ## Other work
