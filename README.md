@@ -19,7 +19,7 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,flutter,html,css,js,docker,git,linux&perline=6" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,flutter,html,css,js,haskell,docker,git,linux&perline=6" alt="Tech stack">
 </p>
 
 ## What I work on
@@ -41,6 +41,7 @@
 | C++ | **[DAProject](https://github.com/paipaga/DAProject)**<br>Scientific conference organisation tool, for the Algorithm Design course |
 | PHP | **[PhoenixForce-Gym-Website](https://github.com/paipaga/PhoenixForce-Gym-Website)**<br>Functional gym website, for the Web Languages and Technologies course |
 | Java | **[Snailin-it](https://github.com/paipaga/Snailin-it)**<br>Java game, for the Software Design and Testing course |
+| Haskell | **[Logic Calculator] (https://github.com/paipaga/Logic-Calculator)** <br> Logic caculator made for Functional and Logic Programming course |
 
 ## Other work
 
